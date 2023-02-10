@@ -1,9 +1,9 @@
-@page {
-  size: A4 landscape;
-}
-
 body {
   font-family: sans-serif;
+  min-height: 100vh;
+    max-width: 400px;
+    background-color: #EAF2F8; 
+    margin: 0 auto;
 }
 
 .a {
@@ -26,14 +26,14 @@ font-style: italic;
 }
 
 h2 {
-  color: #3498DB;
+  color: #1B4F72;
   text-align: center;
   text-transform: uppercase;
   font-size: 25px;
 }
 
 h3 {
-  color: #3498DB;
+  color: #1B4F72;
   text-align: center;
   font-size: 18px;
 }
@@ -53,7 +53,6 @@ h5 {
 h6 {
   font-size: 10px;
   text-align: center;
- color: #2d3038;
 }
 
 li {
