@@ -4,6 +4,8 @@ body {
     max-width: 600px;
     background-color: #EAF2F8; 
     margin: 0 auto;
+  width: 600px;
+  height:850;
 }
 
 .a {
